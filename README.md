@@ -1,1 +1,1 @@
-# Bank-Customer-Survery-Project
+# Bank-Customer-Survey-Project
